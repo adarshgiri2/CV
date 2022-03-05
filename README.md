@@ -1,2 +1,2 @@
 # CV
- <a class="footer-link" href="https://adarshgiri2.github.io/CV/">Visit Here</a>
+<p><a href="https://adarshgiri2.github.io/CV/">VISIT HERE</a></p>
